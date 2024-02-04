@@ -1,0 +1,4 @@
+[1108/143315:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[1108/143315:WARNING:raw_channel_win.cc(532)] WriteFile: Trwa zamykanie potoku. (0xE8)
+[1108/143315:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[1108/174826:ERROR:ipc_channel_win.cc(512)] pipe error: 232
